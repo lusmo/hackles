@@ -1,0 +1,4 @@
+Date: June 3, 2002
+File: cartoon173.png
+Text: Ethernetový kabel má víc využití.
+Text: If only a purple monster would visit every programmer who forgot to deallocate his memory!
