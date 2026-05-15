@@ -1,0 +1,9 @@
+# Hackles Comic Translator - Python dependencies
+# Install with:  pip install -r requirements.txt
+
+pillow>=10.0
+pytesseract>=0.3.10
+opencv-python>=4.8
+deep-translator>=1.11
+requests>=2.31
+numpy>=1.24
